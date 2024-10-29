@@ -2,6 +2,10 @@
 
 FlashBrief is a responsive news aggregator built using React that offers real-time news updates, customizable categories, and light/dark mode for optimal viewing comfort.
 
+## Live Demo
+
+Explore the live application here: [FlashBrief on Vercel](https://rakesh-news-aggregator.vercel.app/)
+
 ## Table of Contents
 
 - [Features](#features)
